@@ -1,5 +1,10 @@
 $primary-color: white;
 $bg: black;
+html,body {
+  background: $bg;
+  color:white;
+  font-size: 18px;
+}
 h1 {
   color: $primary-color;
   background-color: $bg;

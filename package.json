@@ -11,10 +11,14 @@
     "start": "parcel src/index.html",
     "build-prod": "parcel build src/index.html"
   },
-  "dependencies": {},
+  "dependencies": {
+    "postcss-cli": "^7.1.0",
+    "tailwindcss": "^1.2.0"
+  },
   "devDependencies": {
-    "parcel-bundler": "^1.12.4",
     "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.9.0"
+    "@babel/preset-env": "^7.9.0",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.3"
   }
 }

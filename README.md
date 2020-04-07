@@ -1,6 +1,18 @@
 # tailwindcss-project
 
-Empty project.
+A project with tailwindcss
+
+must install 
+
+```sh
+# Using npm
+npm install tailwindcss
+```
+
+```sh
+npm i postcss-cli
+
+```
 
 ## Building and running on localhost
 
